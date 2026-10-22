@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Personalized learning journey</title>
+  <desc id="desc">Learner sets interests and goals, receives a roadmap, studies and records progress, then gets updated next steps and revision suggestions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f1e4"/><stop offset="1" stop-color="#e8f1e8"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#718179"/></marker>
+  </defs>
+  <rect width="1200" height="310" rx="26" fill="url(#bg)"/>
+  <text x="48" y="50" fill="#173b33" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">THE ADAPTIVE LEARNING LOOP</text>
+  <g stroke="#718179" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <path d="M250 155H295"/><path d="M465 155H510"/><path d="M680 155H725"/><path d="M895 155H940"/>
+  </g>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <g><rect x="45" y="100" width="205" height="112" rx="20" fill="#fffdf8" stroke="#d7ded4"/><circle cx="77" cy="132" r="16" fill="#e06a2e"/><text x="77" y="138" fill="#fff" font-size="15" font-weight="700">1</text><text x="147" y="145" fill="#173b33" font-size="17" font-weight="700">Set your goal</text><text x="147" y="174" fill="#52665d" font-size="13">Interests · experience</text><text x="147" y="194" fill="#52665d" font-size="13">weekly learning time</text></g>
+    <g><rect x="295" y="100" width="170" height="112" rx="20" fill="#fffdf8" stroke="#d7ded4"/><circle cx="327" cy="132" r="16" fill="#e06a2e"/><text x="327" y="138" fill="#fff" font-size="15" font-weight="700">2</text><text x="380" y="151" fill="#173b33" font-size="17" font-weight="700">Get a path</text><text x="380" y="180" fill="#52665d" font-size="13">Ordered topics</text></g>
+    <g><rect x="510" y="100" width="170" height="112" rx="20" fill="#fffdf8" stroke="#d7ded4"/><circle cx="542" cy="132" r="16" fill="#e06a2e"/><text x="542" y="138" fill="#fff" font-size="15" font-weight="700">3</text><text x="595" y="151" fill="#173b33" font-size="17" font-weight="700">Learn & track</text><text x="595" y="180" fill="#52665d" font-size="13">Status · confidence</text></g>
+    <g><rect x="725" y="100" width="170" height="112" rx="20" fill="#fffdf8" stroke="#d7ded4"/><circle cx="757" cy="132" r="16" fill="#e06a2e"/><text x="757" y="138" fill="#fff" font-size="15" font-weight="700">4</text><text x="810" y="151" fill="#173b33" font-size="17" font-weight="700">Get insights</text><text x="810" y="180" fill="#52665d" font-size="13">Next step · revision</text></g>
+    <g><rect x="940" y="100" width="215" height="112" rx="20" fill="#18483f"/><circle cx="972" cy="132" r="16" fill="#e7aa43"/><text x="972" y="138" fill="#173b33" font-size="15" font-weight="700">5</text><text x="1045" y="151" fill="#fffdf8" font-size="17" font-weight="700">Keep growing</text><text x="1045" y="180" fill="#d9eee5" font-size="13">Your path adapts</text></g>
+  </g>
+  <path d="M1050 229 C930 285 265 285 145 229" fill="none" stroke="#e06a2e" stroke-width="2.5" stroke-dasharray="7 7" marker-end="url(#arrow)"/>
+  <text x="600" y="278" fill="#8d4c1d" font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">Progress feeds the next recommendation</text>
+</svg>
