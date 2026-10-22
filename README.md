@@ -1,6 +1,6 @@
 <div align="center">
 
-# PathLift
+# ai-learning-companion
 
 ### Your next learning step, chosen around your goals.
 
